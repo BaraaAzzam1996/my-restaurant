@@ -27,7 +27,8 @@
 
 ![.]( https://lh3.googleusercontent.com/F_FuxDRc8bPpf5uU6PSxBOrpTKd8Dugsp9oaKfXCum2NZmRYhGOu73QLtTolK_-Q8ICuKcuucHHHC1qkOVi3Bw=w1920-h1440-c-rj-v1-e365 )
 <br>
- ## *Salads*
+
+ ## *Salad*
  1. Cesar Salad Without Chicken 2.50 JD
  2. Cesar Salad With Chicken    3.50 JD
  3. Relish Salad                3.00 JD
@@ -35,6 +36,7 @@
  5. Macaroni Salad              2.00 JD
 
  ![.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UT8eLkqtRsBA7Qee3OrAymtb5zHlbdGGAg&usqp=CAU) <br>
+
  ## *Drinks*
  1. Soft Drinks                1.50 JD
  2. Soda Water                 1.50 JD
@@ -43,15 +45,19 @@
  
 
  ![.](https://www.thespruceeats.com/thmb/PKK63OuoTMaezzPYvaq2fy-TB5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bar101-cocktails-504754220-580e83415f9b58564cf470b9.jpg) <br>
+
   ## *Deserts*
  1. Tiramisù                   2.00 JD
  2. Zabaglione with Strawberries 2.50 JD
  3. White Peach Tart            2.00 JD
 
  ![.](https://www.foodandwine.com/thmb/EgseuKtU3Lpr8SXsmB8YljyIKHU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-zabaglioue-qfs-r-1f4069a3b59048d7a3d6dbcdd0dfdf60.jpg) <br>
-   ### Read About Italian Food If you Want 
+ 
+   ### Read About Italian Food If you Want<br>
+
  [Italian Food](https://www.chefspencil.com/top-25-most-popular-italian-foods-dishes/) <br>
-# Thank You For Visiting US 
+
+ Thank You For Visiting US 
 
 
  
