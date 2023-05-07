@@ -26,7 +26,7 @@
 5. Alfredo Pasta        6.00 JD
 
 
-![.]( https://lh3.googleusercontent.com/F_FuxDRc8bPpf5uU6PSxBOrpTKd8Dugsp9oaKfXCum2NZmRYhGOu73QLtTolK_-Q8ICuKcuucHHHC1qkOVi3Bw=w1920-h1440-c-rj-v1-e365 )
+![.]( https://lh3.googleusercontent.com/F_FuxDRc8bPpf5uU6PSxBOrpTKd8Dugsp9oaKfXCum2NZmRYhGOu73QLtTolK_-Q8ICuKcuucHHHC1qkOVi3Bw=w1920-h1440-c-rj-v1-e365 )</p>
 
  ## *Salads*
  1. Cesar Salad Without Chicken 2.50 JD
@@ -36,7 +36,7 @@
  5. Macaroni Salad              2.00 JD
  
 
- ![.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UT8eLkqtRsBA7Qee3OrAymtb5zHlbdGGAg&usqp=CAU)
+ ![.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UT8eLkqtRsBA7Qee3OrAymtb5zHlbdGGAg&usqp=CAU)</p>
 
  ## *Drinks*
  1. Soft Drinks                1.50 JD
@@ -55,7 +55,8 @@
 
  ![.](https://www.foodandwine.com/thmb/EgseuKtU3Lpr8SXsmB8YljyIKHU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-zabaglioue-qfs-r-1f4069a3b59048d7a3d6dbcdd0dfdf60.jpg) 
  ### Read About Italian Food If you Want 
- [Italian Food](https://www.chefspencil.com/top-25-most-popular-italian-foods-dishes/)
+ [Italian Food](https://www.chefspencil.com/top-25-most-popular-italian-foods-dishes/)</p>
+ 
  # Thank You For Visiting US 
 
 
