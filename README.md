@@ -8,16 +8,15 @@
 5. Neapolitan pizza      5.00 JD
 6. Calzone               5.00 JD
 7. Barbecue Chicken      5.00 JD
-</p>
+
 
 *Extra Cheese Adding 1 JD*
-</p>
+
 
 *Extra Chicken Adding 2 JD*
-</p>
+
 
 ![.]( https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg)
-</p>
 
 ## *Macaroni*
 1. Spaghetti            4.00 JD
@@ -25,10 +24,10 @@
 3. Bechamel Pasta       6.00 JD
 4. Lasagna              6.00 JD
 5. Alfredo Pasta        6.00 JD
-</p>
+
 
 ![.]( https://lh3.googleusercontent.com/F_FuxDRc8bPpf5uU6PSxBOrpTKd8Dugsp9oaKfXCum2NZmRYhGOu73QLtTolK_-Q8ICuKcuucHHHC1qkOVi3Bw=w1920-h1440-c-rj-v1-e365 )
-</p>
+
 
  ## *Salads*
  1. Cesar Salad Without Chicken 2.50 JD
@@ -36,31 +35,31 @@
  3. Relish Salad                3.00 JD
  4. Green Salad                 2.00 JD
  5. Macaroni Salad              2.00 JD
- </p>
+ 
 
  ![.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UT8eLkqtRsBA7Qee3OrAymtb5zHlbdGGAg&usqp=CAU)
- </p>
+
 
  ## *Drinks*
  1. Soft Drinks                1.50 JD
  2. Soda Water                 1.50 JD
  3. Water                       .50 JD
  4. Fresh Juice                2.00 JD
- </P>
+ 
 
  ![.](https://www.thespruceeats.com/thmb/PKK63OuoTMaezzPYvaq2fy-TB5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bar101-cocktails-504754220-580e83415f9b58564cf470b9.jpg)
- </p>
+ 
 
  ## *Deserts*
  1. Tiramisù                   2.00 JD
  2. Zabaglione with Strawberries 2.50 JD
  3. White Peach Tart            2.00 JD
- </p>
+ 
 
  ![.](https://www.foodandwine.com/thmb/EgseuKtU3Lpr8SXsmB8YljyIKHU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-zabaglioue-qfs-r-1f4069a3b59048d7a3d6dbcdd0dfdf60.jpg)
- </p>
+ 
 
- ### Read About Italian Food If you Want </p>
+ ### Read About Italian Food If you Want 
  [Italian Food](https://www.chefspencil.com/top-25-most-popular-italian-foods-dishes/)
 
   # Thank You For Visiting US 
