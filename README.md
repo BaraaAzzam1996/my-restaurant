@@ -35,6 +35,7 @@
  2. Cesar Salad With Chicken    3.50 JD
  3. Relish Salad                3.00 JD
  4. Green Salad                 2.00 JD
+ 5. Macaroni Salad              2.00 JD
  </p>
 
  ![.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UT8eLkqtRsBA7Qee3OrAymtb5zHlbdGGAg&usqp=CAU)
