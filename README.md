@@ -59,7 +59,8 @@
 
  Thank You For Visiting US 
 
-![wireframe](https://github.com/BaraaAzzam1996/my-restaurant/assets/131862272/5d2c90cb-4f14-4eeb-83cf-52533aa86a52)
+![wireframe](https://www.blogger.com/blog/post/edit/1911805175430488161/2942042980358547798)
+
 
  
  
