@@ -50,8 +50,9 @@
  1. Tiramisù                   2.00 JD
  2. Zabaglione with Strawberries 2.50 JD
  3. White Peach Tart            2.00 JD
+ ![.](https://www.foodandwine.com/thmb/EgseuKtU3Lpr8SXsmB8YljyIKHU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-zabaglioue-qfs-r-1f4069a3b59048d7a3d6dbcdd0dfdf60.jpg)
 
- ![.](https://www.foodandwine.com/thmb/EgseuKtU3Lpr8SXsmB8YljyIKHU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-zabaglioue-qfs-r-1f4069a3b59048d7a3d6dbcdd0dfdf60.jpg) <br>
+  <br>
 
   Read About Italian Food If you Want<br>
 
@@ -59,7 +60,9 @@
 
  Thank You For Visiting US 
 
-![wireframe](https://www.blogger.com/blog/post/edit/1911805175430488161/2942042980358547798)
+
+![wireframe](https://github.com/BaraaAzzam1996/my-restaurant/assets/131862272/cdcc02d0-6610-4b0a-9859-ca42a523550f)
+
 
 
  
