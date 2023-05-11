@@ -19,7 +19,7 @@
 ![.]( https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg)
 
 ## *Macaroni*
-1. Spaghetti            4.00 JD
+1. Spaghetti            3.00 JD
 2. Fettuccine           6.00 JD
 3. Bechamel Pasta       6.00 JD
 4. Lasagna              6.00 JD
