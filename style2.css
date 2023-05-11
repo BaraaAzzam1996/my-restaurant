@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ .about {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    background-color: #A7727D;
+ }
+
+ .div1{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    margin-top: 50px;
+    align-items: center
+ }
+ .intro{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: #A7727D;
+    align-items: center;
+    
+ }
